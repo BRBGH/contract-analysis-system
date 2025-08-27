@@ -142,14 +142,4 @@ To extend the system:
 - **API Rate Limits**: Implement retry logic or use different models
 - **Memory Issues**: Reduce chunk size for large documents
 
-## 📄 License
-
-[Add your license information here]
-
-## 🤝 Contributing
-
-[Add contribution guidelines here]
-
----
-
 **Built with**: LangGraph, OpenAI GPT-4o, ChromaDB, Streamlit
